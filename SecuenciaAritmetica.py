@@ -9,5 +9,5 @@ while True:
     num += diferencia
     if num > limite:
         break
-
+    
 print("\nSecuencia aritmética desde", inicio, "hasta", limite)
